@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Nossa primeira alteração nesse arquivo.
 
 Corrigido bug da versao master
+=======
+teste
+>>>>>>> v2
