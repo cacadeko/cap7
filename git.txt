@@ -1,1 +1,3 @@
 Nossa primeira alteração nesse arquivo.
+
+Corrigido bug
